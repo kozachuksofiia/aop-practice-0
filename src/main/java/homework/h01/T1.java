@@ -1,5 +1,5 @@
 package homework.h01;
-
+//1
 // base
 // https://leetcode.com/problems/smallest-even-multiple/
 public class T1 {
